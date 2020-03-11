@@ -1,0 +1,54 @@
+body{
+  background-color: #343584;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+.main-div{
+  height: 100%;
+  width: 100%;
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: start;
+}
+.header{
+  min-height: 150px;
+  width: 100%;
+  text-align: center;
+}
+.form-main{
+padding: 30px;
+margin-top: 30px;
+background-color:#2B2A49;
+width: 40%;
+display: flex;
+flex-direction: column;
+}
+.form{
+  width: 100%;
+  height: 30px;
+  padding: 2px;
+  margin: 10px;
+  border: 1 solid;
+  border-radius: 3px;
+}
+.text{
+  margin: 5px;
+  padding: 10px;
+}
+
+.textarea{
+  min-height: 90px;
+  width: 100%;
+}
+
+.button{
+  width: 100%;
+  height: 40px;
+  background-color:#009F00;
+}
+
+.input-checkbox{
+  min-height: 20px;
+}

@@ -1,8 +1,6 @@
 body{
   background-color: white;
-  height: 100%;
-  /* font-family: sans-serif; */
-  font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+  font-family: sans-serif;
 }
 
 .main-div{
@@ -14,7 +12,7 @@ body{
 }
 
 .h1-size{
-  font-size:250%;
+  font-size: 40px;
   color: rgba(0, 0, 0, 0.767);
 }
 
@@ -30,15 +28,13 @@ body{
 
 .img-div{
   width: 83%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 95px;
 }
 
 .img-caption{
   text-align: center;
   padding: 5px 0px 5px 0px;
-  font-weight: 500px;
+
 }
 
 .tribute-info{
@@ -51,8 +47,7 @@ margin-left: 300px;
 }
 
 .Borlaug{
-  /* font-family: cursive; */
-  font-family:  -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+  font-family: cursive;
   padding: 10PX;
 }
 
