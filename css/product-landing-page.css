@@ -23,6 +23,11 @@ body{
   align-items: center;
   flex-wrap: wrap;
   width: 100%;
+  position: fixed;
+}
+
+.image-size{
+  height: 40px;
 }
 
 .nav-link{
@@ -42,7 +47,9 @@ body{
   justify-content: start;
   align-items: center;
   font-size: 15px;
-  padding: 20px;
+  padding-top: 90px;
+  padding-bottom: 30px;
+  margin-top: 20px;
 }
 
 .text{
@@ -58,7 +65,10 @@ body{
 .title-button{
   padding: 5px;
   width: 50%;
-  background: yellow;
+  background: rgb(255, 208, 0);
+}
+.title-button:hover{
+  background-color: orange;
 }
 
 .main{
@@ -144,6 +154,10 @@ body{
  justify-content: center;
  width: 90px;
  height: 40px;
+}
+
+.btn:hover{
+  background-color: rgb(255, 196, 0);
 }
 
 .footer-main{
