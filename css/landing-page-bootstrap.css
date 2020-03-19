@@ -1,0 +1,40 @@
+body{
+  background: #eeeeee !important;
+  font-family: 'Lato', sans-serif;
+}
+
+.custom-header-bg{
+  background: #eeeeee;
+}
+
+.image-header-size{
+  height: 30px;
+}
+
+@media (max-width: 767px) {
+  .custom-title-pt {
+    padding-top: 10rem;
+  }
+}
+
+.icon-color {
+  color: orange;
+}
+
+@media (min-width: 767px){
+  .custom-video{
+     width: 55% !important;
+  }
+  }
+
+.custom-card-main{
+  border: 2px solid black !important;
+  }
+
+.custom-card{
+  background: #D6D6D6 !important;
+}
+
+.custom-footer{
+  background: #D6D6D6  ;
+}

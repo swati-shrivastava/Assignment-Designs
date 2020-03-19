@@ -1,7 +1,7 @@
 body{
-  height: 100vh;
-  width: 100vw;
-  overflow: hidden;
+  /* height: 100vh; */
+  /* width: 100vw; */
+  /* overflow: hidden; */
   background-color: #EEEEEE;
   font-family: 'Lato', sans-serif;
 
@@ -20,7 +20,6 @@ body{
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-  align-items: center;
   flex-wrap: wrap;
   width: 100%;
   position: fixed;
@@ -72,7 +71,7 @@ body{
 }
 
 .main{
-  width: fit-content;
+  /* width: fit-content; */
   padding: 20px;
   display: flex;
   flex-direction: column;
@@ -81,12 +80,12 @@ body{
 .info{
   width: 100%;
   display: flex;
-  justify-content: space-around;
+  /* justify-content: space-around; */
   flex-wrap: wrap;
 }
 
 .inner-div {
-  flex: 1 1 auto;
+  /* flex: 1 1 auto; */
   display: flex;
   flex-direction: column;
 }
@@ -115,7 +114,7 @@ body{
 }
 
 .card-div{
-  width: 100%;
+  /* width: 100%; */
   display: flex;
   flex-direction: row;
   justify-content: center;
